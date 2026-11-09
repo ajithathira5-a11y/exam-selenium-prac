@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-09T17:27:23 IST" name="Suite" finished-at="2026-11-09T17:27:32 IST" duration-ms="9103">
+    <groups>
+    </groups>
+    <test started-at="2026-11-09T17:27:23 IST" name="Test" finished-at="2026-11-09T17:27:32 IST" duration-ms="9103">
+      <class name="com.indus.test.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.indus.test.LoginTest@6a78afa0]" started-at="2026-11-09T17:27:23 IST" name="setup" finished-at="2026-11-09T17:27:31 IST" duration-ms="7761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="before()[pri:0, instance:com.indus.test.LoginTest@6a78afa0]" started-at="2026-11-09T17:27:31 IST" name="before" finished-at="2026-11-09T17:27:31 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="lcount()[pri:1, instance:com.indus.test.LoginTest@6a78afa0]" started-at="2026-11-09T17:27:31 IST" name="lcount" finished-at="2026-11-09T17:27:31 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lcount -->
+        <test-method is-config="true" signature="before()[pri:0, instance:com.indus.test.LoginTest@6a78afa0]" started-at="2026-11-09T17:27:31 IST" name="before" finished-at="2026-11-09T17:27:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="ttl()[pri:2, instance:com.indus.test.LoginTest@6a78afa0]" started-at="2026-11-09T17:27:31 IST" name="ttl" finished-at="2026-11-09T17:27:31 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ttl -->
+      </class> <!-- com.indus.test.LoginTest -->
+      <class name="com.indus.test.HomeTest">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.indus.test.HomeTest@6989da5e]" started-at="2026-11-09T17:27:31 IST" name="before" finished-at="2026-11-09T17:27:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="cookerver()[pri:3, instance:com.indus.test.HomeTest@6989da5e]" started-at="2026-11-09T17:27:31 IST" name="cookerver" finished-at="2026-11-09T17:27:32 IST" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookerver -->
+      </class> <!-- com.indus.test.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
